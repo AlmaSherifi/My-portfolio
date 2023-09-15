@@ -1,0 +1,33 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif
+}
+
+body { /* bakgrundsfärg*/
+   background-color:  #DFD3C3; 
+}
+div { /* */
+    margin: 20px;
+    padding: 20px;
+    color: #85586F;
+    font-size: 16px;   
+}
+.projekt img {
+    width: 400px;
+    height: 250px;
+    position: relative;
+    top: 20px;
+    right: 0px;
+    box-shadow: 5px 5px 2px #85586F;
+}
+.projekt p {
+    font-size: 19px;
+    
+}
+.projekt-innehåll h2 {
+    font-size: 25px;
+    padding: 0px;
+    margin: 10px;
+}
